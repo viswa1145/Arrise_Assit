@@ -1,0 +1,4 @@
+account_a_profile = "account-a"
+account_b_profile = "account-b"
+console_users     = ["alice", "bob"]
+pgp_key           = "keybase:your-keybase-username"

@@ -1,0 +1,4 @@
+# Copy to backend.hcl and fill in from `terraform output` in ../task2-state-backend.
+bucket         = "arrise-tfstate-000000000000-us-east-1"
+region         = "us-east-1"
+dynamodb_table = "terraform-state-locks"
